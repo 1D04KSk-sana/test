@@ -1,0 +1,13 @@
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\bin\Debug\Form変数受け渡し練習.exe.config
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\bin\Debug\Form変数受け渡し練習.exe
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\bin\Debug\Form変数受け渡し練習.pdb
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\obj\Debug\Form変数受け渡し練習.csproj.AssemblyReference.cache
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\obj\Debug\Form変数受け渡し練習.Form1.resources
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\obj\Debug\Form変数受け渡し練習.Properties.Resources.resources
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\obj\Debug\Form変数受け渡し練習.csproj.GenerateResource.cache
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\obj\Debug\Form変数受け渡し練習.csproj.CoreCompileInputs.cache
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\obj\Debug\Form変数受け渡し練習.exe
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\obj\Debug\Form変数受け渡し練習.pdb
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\obj\Debug\Form変数受け渡し練習.Form2.resources
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\obj\Debug\Form変数受け渡し練習.Form3.resources
+C:\Users\kurat\OneDrive\デスクトップ\自主練用Ｃｼｬｰﾌﾟ\Form変数受け渡し練習\Form変数受け渡し練習\obj\Debug\Form変数受け渡し練習.csproj.SuggestedBindingRedirects.cache
