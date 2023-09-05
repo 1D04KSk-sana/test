@@ -51,12 +51,23 @@ namespace Form変数受け渡し練習
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            //this.Hide();
+
+            //Form2 form2 = new Form2();
+            //form2.ShowDialog(this);
+            //form2.Dispose();
+
+            //this.Show();
 
             Form2 form2 = new Form2();
-            form2.ShowDialog(this);
-            form2.Dispose();
+            form2.Owner = this;
+            form2.FormClosed += ChildForm_FormClosed;
+            form2.Show();
+            this.Hide();
+        }
 
+        private void ChildForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
             this.Show();
         }
 
