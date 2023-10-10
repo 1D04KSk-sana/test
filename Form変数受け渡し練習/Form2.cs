@@ -28,7 +28,7 @@ namespace Form変数受け渡し練習
         {
             //int cmb = ((Form1)this.Owner).comboBox1.Items.Count;
             //label1.Text = Form1.Form1Instance.TargetStr;
-            label1.Text = "sasisuseso";
+            label1.Text = "aiueo";
         }
 
         private void form2button3_Click(object sender, EventArgs e)
